@@ -1,26 +1,19 @@
 # hackathon-examples
 
 - [Firebase Hackathon Starter](https://snack.expo.io/HJ1Wjg95Z)
-    [https://snack.expo.io/HJ1Wjg95Z](https://snack.expo.io/HJ1Wjg95Z)
 
     Can either use as a Snack or Export to XDE and then use as the start of a project. Remember to change the config to use your own API keys!
 
 - [Image uploading](https://github.com/expo/examples/tree/master/with-formdata-image-upload)
-    [https://github.com/expo/examples/tree/master/with-formdata-image-upload](https://github.com/expo/examples/tree/master/with-formdata-image-upload)
 
     An example of uploading an image (for example, one taken with the camera or from the camera roll) over the network. 
 
-    Also, if you need 
 
 - [Google Vision API](https://github.com/expo/google-vision-expo-test)
-
-    [https://github.com/expo/google-vision-expo-test](https://github.com/expo/google-vision-expo-test)
 
     An example of using the Google Vision API with Expo. Make sure you get and use your own API keys to make it work! You can [try a demo](https://expo.io/@nikki/google-vision-expo-test) at [https://expo.io/@nikki/google-vision-expo-test](https://expo.io/@nikki/google-vision-expo-test)
 
 - [Camerja](https://github.com/expo/camerja)
-
-    [https://github.com/expo/camerja](https://github.com/expo/camerja)
 
     An example of using the `Expo.Camera` API for fine grained control over the UI for the camera.
 
