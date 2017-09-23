@@ -8,6 +8,10 @@
 
     An example of uploading an image (for example, one taken with the camera or from the camera roll) over the network. 
 
+- [Expo with Hasura Tutorial](https://docs.hasura.io/0.14/guides/react-native.html)
+
+    A tutorial on getting setup with an Expo app that uses [Hasura](https://hasura.io/) as a backend.
+
 
 - [Google Vision API](https://github.com/expo/google-vision-expo-test)
 
