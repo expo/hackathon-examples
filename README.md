@@ -8,6 +8,10 @@
 
     An example of uploading an image (for example, one taken with the camera or from the camera roll) over the network. 
 
+- [A Map Centered on your Current Location](https://snack.expo.io/SkqC-nNs-)
+
+    An example of a map that centers on your current location and has a marker there.
+
 - [Expo with Hasura Tutorial](https://docs.hasura.io/0.14/guides/react-native.html)
 
     A tutorial on getting setup with an Expo app that uses [Hasura](https://hasura.io/) as a backend.
