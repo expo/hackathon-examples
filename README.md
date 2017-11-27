@@ -16,10 +16,9 @@
 
     An example of a map that centers on your current location and has a marker there.
 
-- [Expo with Hasura Tutorial](https://docs.hasura.io/0.14/guides/react-native.html)
+- [Expo quickstart with Hasura](https://hasura.io/hub/project/hasura/hello-react-native)
 
-    A tutorial on getting setup with an Expo app that uses [Hasura](https://hasura.io/) as a backend.
-
+    An example Expo app that uses [Hasura](https://hasura.io/) as a backend. A ready-in-5-minutes react-native app with authentication and data implemented.
 
 - [Google Vision API](https://github.com/expo/google-vision-expo-test)
 
