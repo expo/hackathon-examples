@@ -44,4 +44,6 @@
 
     or [in the iOS App Store](https://itunes.apple.com/us/app/harvard-cs50/id1277395242?mt=8&ign-mpt=uo%3D4)
 
+- [Tinder Deck](https://snack.expo.io/@adamjnav/tinder-deck-example)
 
+    A Simple demo of a Tinder-styled UI component. Swipe Away!
