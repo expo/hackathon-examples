@@ -46,4 +46,4 @@
 
 - [Tinder Deck](https://snack.expo.io/@adamjnav/tinder-deck-example)
 
-    A Simple demo of a Tinder-styled UI component. Swipe Away!
+    A simple demo of a Tinder-styled UI component. Swipe Away!
