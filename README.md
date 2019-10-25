@@ -4,35 +4,45 @@
 
   A Pokedex that shows you all the pokemon and their movesets. Uses React Navigation.
 
-- [Meme Generator](https://snack.expo.io/r1Fi-E8n-)
+- [Meme Generator](https://snack.expo.io/@esamelson/meme-generator)
 
-    A simple meme generator that lets you pick from a few templates, your camera roll, or take a photo, and then add text to it, and share it with your friends :)
+    A simple meme generator that lets you pick from a few templates, your camera roll, or take a photo, and then add text to it, upload it to a server and share it with your friends :)
 
-- [Firebase Hackathon Starter](https://snack.expo.io/HJ1Wjg95Z)
+- [Firebase Hackathon Starter](https://snack.expo.io/@esamelson/firebase-hackathon-starter)
 
-    Can either use as a Snack or Export to XDE and then use as the start of a project. Remember to change the config to use your own API keys!
+    A simple starter snack with instructions and boilerplate for setting up Firebase Realtime Database. Remember to change the config to use your own API keys!
 
-- [Image uploading](https://github.com/expo/examples/tree/master/with-formdata-image-upload)
+- [A Map Centered on your Current Location](https://snack.expo.io/@esamelson/map-view-example)
 
-    An example of uploading an image (for example, one taken with the camera or from the camera roll) over the network. 
+    An example of a map that centers on your current location and has a marker there. Works on iOS and Android, but not Web.
 
-- [A Map Centered on your Current Location](https://snack.expo.io/SkqC-nNs-)
+- [Tinder Deck](https://snack.expo.io/@esamelson/tinder-deck-example)
 
-    An example of a map that centers on your current location and has a marker there.
+    A simple demo of a Tinder-styled UI component. Swipe Away!
+
+- [Native Component List](https://github.com/expo/expo/tree/master/apps/native-component-list)
+
+    A full app with extensive demos of almost every Expo API. Check out the `src/screens` folder for easy access to a particular API screen. Android users can [try it at https://expo.io/@community/native-component-list](https://expo.io/@community/native-component-list)
+
+- [React Navigation Playground](https://github.com/react-navigation/react-navigation/tree/master/example)
+
+    A full app with examples of a variety of different navigation patterns. Android users can [try it at https://expo.io/@react-navigation/NavigationPlayground](https://expo.io/@react-navigation/NavigationPlayground).
+
+### Outdated examples
+
+These examples are all out of date and may provide hints/starting points but probably will not work out of the box.
 
 - [Expo quickstart with Hasura](https://hasura.io/hub/project/hasura/hello-react-native)
 
     An example Expo app that uses [Hasura](https://hasura.io/) as a backend. A ready-in-5-minutes react-native app with authentication and data implemented.
 
+- [Image uploading](https://github.com/expo/examples/tree/master/with-formdata-image-upload)
+
+    An example of uploading an image (for example, one taken with the camera or from the camera roll) over the network. 
+
 - [Google Vision API](https://github.com/expo/google-vision-expo-test)
 
     An example of using the Google Vision API with Expo. Make sure you get and use your own API keys to make it work! You can [try a demo](https://expo.io/@nikki/google-vision-expo-test) at [https://expo.io/@nikki/google-vision-expo-test](https://expo.io/@nikki/google-vision-expo-test)
-
-- [Camerja](https://github.com/expo/camerja)
-
-    An example of using the `Expo.Camera` API for fine grained control over the UI for the camera.
-
-    [Try it](https://expo.io/@community/camerja) at [https://expo.io/@community/camerja](https://expo.io/@community/camerja)
 
 - [Growler Prowler](https://github.com/brentvatne/growler-prowler)
 
@@ -47,7 +57,3 @@
     [Try it](https://expo.io/@cs50/harvard-cs50) at [https://expo.io/@cs50/harvard-cs50](https://expo.io/@cs50/harvard-cs50)
 
     or [in the iOS App Store](https://itunes.apple.com/us/app/harvard-cs50/id1277395242?mt=8&ign-mpt=uo%3D4)
-
-- [Tinder Deck](https://snack.expo.io/@adamjnav/tinder-deck-example)
-
-    A simple demo of a Tinder-styled UI component. Swipe Away!
