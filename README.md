@@ -1,6 +1,6 @@
 # hackathon-examples
 
-- [Pokedex](https://github.com/quinlanj/poke-workshops)
+- [Pokedex](https://github.com/SoftwareMansion/poke-workshops)
 
   A Pokedex that shows you all the pokemon and their movesets. Uses React Navigation.
 
